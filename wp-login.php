@@ -9,7 +9,6 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Log In &lsaquo; Motus Multimedia &#8212; WordPress</title>
 	<link rel='dns-prefetch' href='//s.w.org' />
-<link href='https://cdn.shortpixel.ai/' rel='preconnect' />
 <link rel='stylesheet' id='dashicons-css'  href='/wp-includes/css/dashicons.min.css?ver=5.2.4' type='text/css' media='all' />
 <link rel='stylesheet' id='buttons-css'  href='/wp-includes/css/buttons.min.css?ver=5.2.4' type='text/css' media='all' />
 <link rel='stylesheet' id='forms-css'  href='/wp-admin/css/forms.min.css?ver=5.2.4' type='text/css' media='all' />
