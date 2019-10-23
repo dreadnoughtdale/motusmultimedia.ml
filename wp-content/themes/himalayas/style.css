@@ -1697,7 +1697,7 @@ Slider css
 }
 
 .slider-wrapper .parallax-overlay {
-	background: url(images/pattern-overlay.png) repeat scroll 0 0 rgba(0, 0, 0, 0.3);
+	background: url(/wp-content/themes/himalayas/images/pattern-overlay.png) repeat scroll 0 0 rgba(0, 0, 0, 0.3);
 }
 
 .slider-wrapper figure {
@@ -1778,7 +1778,7 @@ Slider css
 	top: 0;
 	left: 0;
 	content: "";
-	background: url(images/slider-title-new-arrow.png) no-repeat scroll 0 center;
+	background: url(/wp-content/themes/himalayas/images/slider-title-new-arrow.png) no-repeat scroll 0 center;
 	width: 4px;
 	height: 100%;
 }
@@ -1840,7 +1840,7 @@ Slider css
 
 .slider-wrapper .bx-prev,
 .slider-wrapper .bx-next {
-	background: rgba(0, 0, 0, 0) url("images/slider-arrow.png") no-repeat scroll 0 0;
+	background: rgba(0, 0, 0, 0) url("/wp-content/themes/himalayas/images/slider-arrow.png") no-repeat scroll 0 0;
 	color: transparent;
 	font: 0px/0 a;
 	height: 48px;
@@ -1877,7 +1877,7 @@ Slider css
 
 .slider-wrapper .bx-prev:hover,
 .slider-wrapper .bx-next:hover {
-	background: url(images/slider-arrow-hover.png) no-repeat scroll 0 0;
+	background: url(/wp-content/themes/himalayas/images/slider-arrow-hover.png) no-repeat scroll 0 0;
 }
 
 .slider-wrapper:hover .bx-next {
@@ -2049,7 +2049,7 @@ Video background css
 }
 
 .video-wrapper .parallax-overlay {
-	background: url(images/pattern-overlay.png) repeat scroll rgba(0, 0, 0, 0.3);
+	background: url(/wp-content/themes/himalayas/images/pattern-overlay.png) repeat scroll rgba(0, 0, 0, 0.3);
 }
 
 /*--------------------------------------------------------------
@@ -2180,7 +2180,7 @@ Video background css
 --------------------------------------------------------------*/
 
 #call-to-action-form {
-	background-image: url("images/call-to-action.jpg");
+	background-image: url("/wp-content/themes/himalayas/images/call-to-action.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
