@@ -8,12 +8,15 @@
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Log In &lsaquo; Motus Multimedia &#8212; WordPress</title>
-	<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='dashicons-css'  href='/wp-includes/css/dashicons.min.css?ver=5.2.4' type='text/css' media='all' />
-<link rel='stylesheet' id='buttons-css'  href='/wp-includes/css/buttons.min.css?ver=5.2.4' type='text/css' media='all' />
-<link rel='stylesheet' id='forms-css'  href='/wp-admin/css/forms.min.css?ver=5.2.4' type='text/css' media='all' />
-<link rel='stylesheet' id='l10n-css'  href='/wp-admin/css/l10n.min.css?ver=5.2.4' type='text/css' media='all' />
-<link rel='stylesheet' id='login-css'  href='/wp-admin/css/login.min.css?ver=5.2.4' type='text/css' media='all' />
+	<link href='https://cdn.shortpixel.ai/' rel='preconnect' />
+<link href='https://fonts.gstatic.com/' crossorigin='anonymous' rel='preconnect' />
+<link href='https://ajax.googleapis.com/' rel='preconnect' />
+<link href='https://fonts.googleapis.com/' rel='preconnect' />
+<link rel='stylesheet' id='dashicons-css'  href='/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='buttons-css'  href='/wp-includes/css/buttons.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='forms-css'  href='/wp-admin/css/forms.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='l10n-css'  href='/wp-admin/css/l10n.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='login-css'  href='/wp-admin/css/login.min.css' type='text/css' media='all' />
 	<meta name='robots' content='noindex,noarchive' />
 	<meta name='referrer' content='strict-origin-when-cross-origin' />
 		<meta name="viewport" content="width=device-width" />
