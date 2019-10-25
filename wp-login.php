@@ -8,8 +8,7 @@
 	<head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Log In &lsaquo; Motus Multimedia &#8212; WordPress</title>
-	<link href='https://cdn.shortpixel.ai/' rel='preconnect' />
-<link href='https://fonts.gstatic.com/' crossorigin='anonymous' rel='preconnect' />
+	<link href='https://fonts.gstatic.com/' crossorigin='anonymous' rel='preconnect' />
 <link href='https://ajax.googleapis.com/' rel='preconnect' />
 <link href='https://fonts.googleapis.com/' rel='preconnect' />
 <link rel='stylesheet' id='dashicons-css'  href='/wp-includes/css/dashicons.min.css' type='text/css' media='all' />
