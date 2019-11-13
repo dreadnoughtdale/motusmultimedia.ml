@@ -11,11 +11,11 @@
 	<atom:link href="/excellent-support/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>Exceeding expectations.</description>
-	<lastBuildDate>Wed, 23 Oct 2019 13:52:26 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 23 Oct 2019 13:52:26 +0800</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.2.4</generator>
+	<generator>https://wordpress.org/?v=5.3</generator>
 </channel>
 </rss>
